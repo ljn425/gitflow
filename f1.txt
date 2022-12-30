@@ -1,5 +1,6 @@
 master 1
 develop 2
+develop 3
 feature-some 3
 release-1.0 4
 hotfix 5
